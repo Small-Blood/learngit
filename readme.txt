@@ -1,2 +1,2 @@
-Git is a version comtrol system.
+Git is a distributes version comtrol system.
 Git is freeware.
